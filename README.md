@@ -5,19 +5,19 @@ Here are my certificates:
 > More certificates, projects, and skills will continue to be added as I progress.
 
 ## BASIC PROGRAMMING
-![HTML,CSS] (photos/BASIC.png)
+![HTML,CSS](photos/BASIC.png)
 ## ADAPTATION AND MOBILE VERSION
-![@MEDIA] (photos/ADAPT.png)
+![@MEDIA](photos/ADAPT.png)
 ## GIT SYSTEM CONTROL
-![GIT] (photos/GIT.png)
+![GIT](photos/GIT.png)
 ## WORKING WITH API
-![APIs] (photos/API.png)
+![APIs](photos/API.png)
 ## BASIC JAVASCRIPT
-![JAVASCRIPT] (photos/JAVA.png)
+![JAVASCRIPT](photos/JAVA.png)
 ## USING REACT JS
-![REACTJS] (photos/REACTJS.png)
+![REACTJS](photos/REACTJS.png)
 ## PYTHON
-![PYTHON] (photos/PYTHON.png)
+![PYTHON](photos/PYTHON.png)
 
 ## Skills
 	•	Languages: Python, HTML, CSS, JavaScript
